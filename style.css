@@ -1,0 +1,29 @@
+.dial {
+    text-align: center;
+}
+
+#durationInput {
+    border: 0;
+    font-size: 50px;
+    font-weight: bold;
+    width: 170px;
+    text-align: center;
+    display: block;
+}
+
+.controlers button {
+    background-color: transparent;
+    border: transparent;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+
+.controlers {
+    width: 170px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
